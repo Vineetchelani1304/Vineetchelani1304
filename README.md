@@ -33,6 +33,7 @@ I am a **Full Stack Developer** with deep expertise in backend development and a
   <a href="#"><img src="https://img.shields.io/badge/Turborepo-%2363B1F0.svg?style=for-the-badge&logo=turborepo&logoColor=black" alt="Turborepo"></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
   <a href="#"><img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"></a>
   <a href="#"><img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a>
 </p>
 
