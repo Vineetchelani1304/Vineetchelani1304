@@ -8,7 +8,7 @@ I am a **Full Stack Developer** with deep expertise in backend development and a
 - 🔭 Building a **Project Management System**
 - 🤖 Exploring **Generative AI** to create smart web experiences
 - 💬 Open to discussions about **Backend Development**, **Prisma**, **PostgreSQL**, **Turborepo**, **Docker**, **TypeScript**, and **AI Integration**
-- 📫 Reach me at **[vineetchelani545@gmail.com](mailto:vineetchelani545@gmail.com)**
+- 📫 Reach me at **[vineetchelani13@gmail.com](mailto:vineetchelani13@gmail.com)**
 
 ---
 
